@@ -8,9 +8,7 @@ To get started with the app,  register your app with Google :
 
 ```
 Navigate to console.cloud.google.com and create a project. 
-
 ```
-
 Next, replace GOOGLE_CLIENT_ID and GOOGLE_CLIENT_SECRET with the values generated in the Cloud Console. :
 
 ```
